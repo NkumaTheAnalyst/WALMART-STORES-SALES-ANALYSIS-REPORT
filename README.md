@@ -42,7 +42,7 @@ The Sales vs. Temperature scatterplot indicates:
 Sales are highest in moderate temperatures (40–70°F).  
 Extreme cold or heat (0–30°F or above 85°F) sees a drop in total weekly sales, likely due to reduced shopping frequency.  
   
-**4. Recommendations**
+**4. Recommendations**  
 Capitalize on Holiday Peaks  
 Enhance marketing campaigns and promotions in the 2–3 weeks leading up to major holidays, especially around Christmas and New Year.  
   
