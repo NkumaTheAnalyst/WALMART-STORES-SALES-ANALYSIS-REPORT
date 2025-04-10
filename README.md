@@ -3,6 +3,9 @@
 **1. Introduction**  
 This report provides a data-driven overview of Walmart’s sales performance across its stores. The dashboard captures key metrics such as total sales, fuel prices, consumer price index (CPI), weekly sales trends, and the impact of external factors like holidays, temperature, and unemployment. It analyzes patterns over time and identifies correlations between these variables and Walmart's weekly sales performance. The goal is to provide actionable insights to support strategic decision-making for improved sales outcomes.  
 
+# Dashboard  
+![Screenshot 2025-04-10 084941](https://github.com/user-attachments/assets/b3e45e93-9b45-423f-a50e-552e32ac6051)
+
 **2. Key Metrics**  
 Total Sales: $6.74 billion  
 Total Fuel Price Points Recorded: 21.61K  
